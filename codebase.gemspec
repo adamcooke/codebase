@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.files = Dir.glob("{bin,lib}/**/*")
   s.require_path = 'lib'
   s.has_rdoc = false
-  s.has_ri = false
 
   s.bindir = "bin"
   s.executables << "codebase"

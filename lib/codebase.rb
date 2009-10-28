@@ -5,6 +5,8 @@ require 'json'
 
 require 'codebase/command'
 
+trap("INT") { puts; exit }
+
 module Codebase
   extend self
   
