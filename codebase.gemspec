@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'codebase'
-  s.version = "4.0.0"
+  s.version = "4.0.1"
   s.platform = Gem::Platform::RUBY
   s.summary = "Gem companion for your Codebase account. Including interactive cloning, key management and more"
   
